@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ru-RU">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ru-RU">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="ru-RU">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="../../../gmpg.org/xfn/11" />
+    <link rel="pingback" href="http://p1sms.ru/xmlrpc.php" />
+    <title>Страница не найдена &#8212; Сервис СМС-Рассылки</title>
+<link rel='dns-prefetch' href='../../../fonts.googleapis.com/default.htm' />
+<link rel='dns-prefetch' href='../../../s.w.org/default.htm' />
+<link rel="alternate" type="application/rss+xml" title="Сервис СМС-Рассылки &raquo; Лента" href="../../feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="Сервис СМС-Рассылки &raquo; Лента комментариев" href="../../comments/feed/default.htm" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"../../../https@s.w.org/images/core/emoji/2.2.1/72x72/","ext":".png","svgUrl":"../../../https@s.w.org/images/core/emoji/2.2.1/svg/default.htm","svgExt":".svg","source":{"concatemoji":"../../wp-includes/js/wp-emoji-release.min.js@ver=4.7.13"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='spacious_style-css'  href='../../wp-content/themes/spacious/style.css@ver=4.7.13' type='text/css' media='all' />
+<link rel='stylesheet' id='spacious-genericons-css'  href='../../wp-content/themes/spacious/genericons/genericons.css@ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_fonts-css'  href='../../../fonts.googleapis.com/css@family=Lato&ver=4.7.13' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='../../wp-content/uploads/smile_fonts/Defaults/Defaults.css@ver=4.7.13' type='text/css' media='all' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js@ver=1.12.4'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/spacious/js/spacious-custom.js@ver=4.7.13'></script>
+<script type='text/javascript' src='../../wp-content/themes/spacious/js/script.js@ver=4.7.13'></script>
+<!--[if lte IE 8]>
+<script type='text/javascript' src='../../wp-content/themes/spacious/js/html5shiv.min.js@ver=4.7.13'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='../../wp-json/default.htm' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://p1sms.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.13" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="../../wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->	<style type="text/css">
+			#site-title,
+		#site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel="icon" href="../../wp-content/uploads/2017/06/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="../../wp-content/uploads/2017/06/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="../../wp-content/uploads/2017/06/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://p1sms.ru/wp-content/uploads/2017/06/cropped-favicon-270x270.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <meta name="keywords"  content="рассылки смс,смс рассылка,смс сервис,рассылка сообщений,интернет рассылка смс,sms рассылка,массовые смс, рассылка базе клиентов,сервис смс рассылок,программа рассылки смс" />
+
+    <script type="text/javascript">
+
+        function openbox(id){
+            display = document.getElementById(id).style.display;
+
+            if(display=='none'){
+                document.getElementById(id).style.display='block';
+            }else{
+                document.getElementById(id).style.display='none';
+            }
+        }
+    </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../../../https@www.googletagmanager.com/gtm.js@id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLCMPS');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+
+
+<body class="error404 wp-custom-logo  wide-1218 wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="../../../https@www.googletagmanager.com/ns.html@id=GTM-WLCMPS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a href="#" onclick="openbox('box'); return false" style="width: 55px;position: fixed;z-index: 2;bottom: 20px; position: fixed; right: 20px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; filter: alpha(opacity=50); margin-bottom: 35px; margin-right: -9px;z-index:11000">
+    <img src="../../wp-content/themes/spacious/images/free_call_btn_1.gif" alt="Закажите обратный звонок" title="Закажите обратный звонок">
+</a>
+
+<div id="box" style="width:100%;height:100%;position: fixed;z-index: 1;display:none;background: rgba(0, 0, 0, 0.57);" align="center">
+    <div style="padding-top:15%">
+
+        <div style="width:550px;">
+            <a href="#" onclick="openbox('box'); return false" style="float:right;margin-top: 4px;margin-right: 7px;font-size: 15px;color: #ffffff;">
+                <b style="font-weight: bold;">X</b>
+            </a>
+            <div>
+                <script>
+                    var amo_forms_params = {"id":369144,"hash":"4b4dbb002c52644e1233c2a959f2695e","locale":"ru"};
+                </script>
+                <script id="amoforms_script" async="async" charset="utf-8" src="../../../https@forms.amocrm.ru/forms/assets/js/amoforms.js">
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div id="page" class="hfeed site">
+        <header id="masthead" class="site-header clearfix">
+
+                            <div id="header-text-nav-container" class="section head head--index--bg">
+                                <div class="section-phone" style="height: 40px;">
+                    <div class="inner-wrap">
+                        <div class="clearfix">
+                            <div id="header-right-section" style="margin-top: 1px;float: none;">
+                                <div style="display: contents;">
+                                    <a href="../../../95.213.129.83/ru/cabinet.html" target="_blank"
+                                   class="btn reg" style="margin-left: 5px;border: 1px solid #808080;font-size: 12px;font-family: sans-serif;">Старый кабинет</a></div>
+                                <div>
+                                <a class="denzareshal" href="tel_3A+78007754504">
+                                    <img src="../../wp-content/themes/spacious/css/img/ico_phone_black.svg" alt="трубка p1sms" class="denzareshalimg"><span>8-800-775-45-04</span></a>
+                                </div>
+  
+                            </div>
+                        </div>
+
+                     </div>
+                </div>
+                <div class="inner-wrap" style="height: 50px;">
+
+                    <div id="header-text-nav-wrap" class="clearfix" style="padding-top: 9px;">
+                        <div id="header-left-section">
+                                                            <div id="header-logo-image">
+                                    
+                                    <a href="../../default.htm" class="custom-logo-link" rel="home" itemprop="url"><img src="../../wp-content/uploads/2017/06/logo.svg" class="custom-logo" alt="" itemprop="logo" /></a>                                </div><!-- #header-logo-image -->
+                                                            <div id="header-text" class="screen-reader-text">
+                                                                    <h3 id="site-title">
+                                        <a href="../../default.htm" title="Сервис СМС-Рассылки" rel="home">Сервис СМС-Рассылки</a>
+                                    </h3>
+                                                                                                <p id="site-description">Программа для рассылок СМС-сообщений клиентам</p>
+                                <!-- #site-description -->
+                            </div><!-- #header-text -->
+                        </div><!-- #header-left-section -->
+                        <div id="header-left-section" class="menu-all">
+                                                        <nav id="site-navigation" class="main-navigation" role="navigation">
+							<span class="js-menu-gamb">
+                            <div class="menu_gamb">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                            <span class="menu_title" style="display: block;">Меню</span>
+                            </span>
+                                <h3 class="menu-toggle">Меню</h3>
+                                <div class="menu-%d0%b2%d0%b5%d1%80%d1%85%d0%bd%d0%b5%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e-container"><ul id="menu-%d0%b2%d0%b5%d1%80%d1%85%d0%bd%d0%b5%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e" class="menu"><li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="../../price/default.htm">Цены</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-300"><a href="../../service/default.htm">Услуги</a>
+<ul class="sub-menu">
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-308"><a href="../../service/api/default.htm">API интеграция</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2452"><a href="../../service/api/integracii-s-populjarnymi-platformami/default.htm">Итеграции с популярными платформами | P1SMS</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2453"><a href="../../service/api/sms-rassylki-cherez-bitrix24-p1sms/default.htm">СМС-рассылки через Bitrix24 | P1SMS</a></li>
+			<li id="menu-item-2454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2454"><a href="../../service/api/sms-rassylki-cherez-amocrm-p1sms/default.htm">СМС-рассылки через amoCRM | P1SMS</a></li>
+			<li id="menu-item-2455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2455"><a href="../../service/api/integracija-sms-rassylok-p1sms-i-crm-yclients/default.htm">Интеграция смс рассылок P1SMS и CRM YCLIENTS</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-319"><a href="../../service/voice/default.htm">Голосовые рассылки</a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="../../service/viber/default.htm">Рассылка Viber</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="../../service/target/default.htm">Таргетированные рассылки</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="../../service/avito/default.htm">Рассылка по Авито</a></li>
+</ul>
+</li>
+<li id="menu-item-1797" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1797"><a href="../../blog/default.htm">Блог</a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="../../faq/default.htm">Вопросы</a></li>
+<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="../../contact/default.htm">Контакты</a></li>
+</ul></div>                            </nav>
+                        </div><!-- #header-left-section -->
+                        <div id="header-right-section" style="margin-top: -3px;">
+                            <div class="block auth">
+
+                                <a href="../../../https@admin.p1sms.ru/ru-ru/registration.html"
+                                   class="btn reg">Зарегистрироваться</a>
+                                <a href="../../../https@admin.p1sms.ru/ru-ru/login.html"
+                                   class="btn_enter">Войти</a>
+
+                            </div>
+                        </div>
+
+                    </div><!-- #header-text-nav-wrap -->
+                </div><!-- .inner-wrap -->
+            </div><!-- #header-text-nav-container -->
+
+            
+                                <!--<div class="header-post-title-container clearfix">-->
+                    <!--<div class="inner-wrap">-->
+                    <!--<div class="post-title-wrapper">-->
+                                                                        <!--<h1 class="header-post-title-class">Страница не найдена</h1>-->
+                                                                    <!--</div>-->
+                                        <!--</div>-->
+                    <!--</div>-->
+                        </header>
+        
+            
+    <div id="main" class="clearfix">
+        <div class="inner-wrap">
+
+
+
+
+
+
+	
+	<div id="primary">
+		<div id="content" class="clearfix">
+			<section class="error-404 not-found">
+				<div class="page-content">
+
+											<div class="page-header">
+							<h2 class="page-title">Ой! Страница не найдена.</h2>
+						</div>
+					
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	
+<div id="secondary">
+			
+		<aside id="text-4" class="widget widget_text"><h3 class="widget-title"><span>Интересно почитать</span></h3>			<div class="textwidget"><div class="arpw-random-page "><ul class="arpw-ul"><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="../../blog/uslugi-qiwi/default.htm" rel="bookmark">Ряд полезных услуг от QIWI</a></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="../../blog/reklama-v-crizis/default.htm" rel="bookmark">Как рекламировать свой бизнес в условиях экономического кризиса?</a></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="../../blog/analitika-reklamnih-sms-soobscheniy/default.htm" rel="bookmark">Компания P1SMS провела аналитику рынка рекламных СМС-сообщений</a></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="../../blog/kak-provodit-segmentaciyu-bazi/default.htm" rel="bookmark">Каким проводить сегментацию клиентской базы?</a></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="../../blog/mobilnie-messageri-ostavili-pozadi-sms/default.htm" rel="bookmark">Мобильные месседжеры оставили позади СМС?</a></li></ul></div></div>
+		</aside>	</div>
+	
+
+		</div><!-- .inner-wrap -->
+	</div><!-- #main -->
+			
+<div itemscope itemtype="http://schema.org/SoftwareApplication" style="display:none; padding-left: 20px;font-size: 11px;">       
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> 
+<meta itemprop="worstRating" content="0"> 
+<span itemprop="ratingValue">4.87</span> из 5, всего оценок - <span itemprop="ratingCount">321</span> 
+</div> 
+<div itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+<meta itemprop="priceCurrency" content="RUB" /> 
+<p>От <span itemprop="price">0.53</span> руб. за сообщение</p> 
+</div> 
+<meta itemprop="applicationCategory" content="NetworkingApplication"> 
+<p itemprop="operatingSystem">Windows XP, 7, Vista, 8, 10. Android. iOS и др.</p> 
+</div>         
+        
+   <div style="width: 100%;padding: 42px 10px 10px 10px;" align="center">
+    <div itemscope itemtype="http://schema.org/Offer">
+    
+    <div style="display:none">
+     <span itemprop="addOn">Сервис СМС Рассылок</span>
+     <span itemprop="itemOffered">Рассылки по каналам: смс-цифровой, смс-буквенный, Viber, Whats App, Голосовые Рассылки, Авито и др.</span>
+     <span itemprop="price">0.35</span>
+     <span itemprop="priceCurrency">RUB</span>
+     <span itemprop="availableDeliveryMethod">моментально</span>
+     <span itemprop="availability">круглосуточно</span>
+     </div>
+
+        <img src="../../wp-content/themes/spacious/images/1.jpg"
+             alt="Банковский перевод" title="Банковский перевод" style="height: 48px; padding-right: 23px;margin-top: -12px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Банковский перевод</span>
+
+        <img src="../../wp-content/themes/spacious/images/2.jpg"
+             alt="Картой МИР" title="Картой МИР" style="height: 41px; padding-right: 24px;margin-top: -4px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Картой МИР</span>
+
+        <img src="../../wp-content/themes/spacious/images/3.jpg"
+             alt="Картой MasterCard" title="Картой MasterCard" style="height: 33px; padding-right: 20px;margin-top: 3px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Картой MasterCard</span>
+
+        <img src="../../wp-content/themes/spacious/images/4.jpg"
+             alt="Картой Tinkoff(Тинькофф) банк" title="Картой Tinkoff(Тинькофф) банк" style="height: 75px; padding-right: 20px;margin-top: -20px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Картой Tinkoff(Тинькофф) банк</span>
+
+        <img src="../../wp-content/themes/spacious/images/5.jpg"
+             alt="Картой Сбербанка" title="Картой Сбербанка" style="height: 75px; padding-right: 20px; margin-top: -25px">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Картой Сбербанка</span>
+
+        <img src="../../wp-content/themes/spacious/images/6.jpg"
+             alt="Картой VISA" title="Картой VISA" style="height: 36px; padding-right: 20px;margin-top: 7px">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Картой VISA</span>
+
+        <img src="../../wp-content/themes/spacious/images/7.jpg"
+             alt="Cloud payments" title="Cloud payments" style="height: 53px; padding-right: 22px; margin-top: -8px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Cloud payments</span>
+
+        <img src="../../wp-content/themes/spacious/images/8.jpg"
+             alt="Яндекс Деньги" title="Яндекс Деньги" style="height: 33px; padding-right: 24px;margin-top: 5px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">Яндекс Деньги</span>
+
+        <img src="../../wp-content/themes/spacious/images/9.jpg"
+             alt="QIWI" title="QIWI" style="height: 34px; padding-right: 20px; margin-top: 10px">
+        <span style="display:none" itemprop="acceptedPaymentMethod">QIWI</span>
+
+        <img src="../../wp-content/themes/spacious/images/10.jpg"
+             alt="WebMoney" title="WebMoney" style="height: 51px;margin-top: -2px;">
+        <span style="display:none" itemprop="acceptedPaymentMethod">WebMoney</span>
+
+    </div>
+</div>     
+        
+        
+        
+        
+        
+	<footer class="footer-section" style="padding-top:0px">
+		<div class="inner-wrap">
+			<div class="row" style="padding-top:50px">
+				<div class="col-md-3">
+								
+								<a href="../../default.htm" class="custom-logo-link" rel="home" itemprop="url"><img src="../../wp-content/uploads/2017/06/logo.svg" class="custom-logo" alt="" itemprop="logo" /></a>					<div class="footer_phone">
+						<a style="cursor: pointer;" href="tel_3A+88007754504">
+							<img src="../../wp-content/themes/spacious/css/img/ico_phone_white.svg" class="phone_ico" alt="">
+							8-800-775-45-04
+						</a>
+					</div>
+					<div class="footer_small">
+						Звонки по России беcплатно					</div>
+					<div class="footer_requisites">
+						OOO «ИТ МОЛОТ»<br>
+ИНН: 5906097520<br>
+ОГРН: 1105906001068						
+					</div>
+				</div>
+				<div class="col-md-3 footer_menu">
+					<div class="footer_menu_name">
+						Услуги 
+					</div>
+					<ul>
+						<li><a href="../../default.htm">СМС-рассылки</a></li>
+						<li><a href="../../service/api/default.htm">API интеграция</a></li>
+						<li><a href="../../service/voice/default.htm">Голосовые рассылки</a></li>
+						<li><a href="../../service/viber/default.htm">Рассылка Viber</a></li>
+						<li><a href="../../service/target/default.htm">Таргетированные рассылки</a></li>
+						<li><a href="../../service/avito/default.htm">Рассылка по Авито</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer_menu">
+					<div class="footer_menu_name">
+						О сервисе 
+					</div>
+					<ul>
+						<li><a href="../../price/default.htm">Цены</a></li>
+						<li><a href="../../blog/default.htm">Блог</a></li>
+						<li><a href="../../faq/default.htm">Популярные вопросы</a></li>
+						<li><a href="../../contact/default.htm">Контакты</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3 footer_menu">
+					<div class="footer_menu_name">
+						Документы 
+					</div>
+					<ul>
+						<li><a href="../../oferta/default.htm">Пользовательское соглашение</a></li>
+						
+						<li style="display:none"><a href="#">Бланк претензии для физ. лиц</a></li>
+                        <li><a href="../../politica">Политика конфиденциальности</a></li>
+						<li><a href="../../Pretenzia_ot_yur_litsa_1.doc">Бланк претензии для юр. лиц</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+		<a href="#masthead" id="scroll-up"></a>
+	</div><!-- #page -->
+	<script type='text/javascript' src='../../wp-content/themes/spacious/js/navigation.js@ver=4.7.13'></script>
+<script type='text/javascript' src='../../wp-includes/js/wp-embed.min.js@ver=4.7.13'></script>
+<script>
+jQuery(function ($) {
+    $(".js-menu-gamb").click(function(){
+        $(".nav-menu").toggle();
+        $(".menu_title").toggle();
+    });
+});
+</script>
+<script src="../../../cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script src="../../../https@cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js"></script>
+<script type="text/javascript" src="../../wp-content/themes/spacious/js/jquery.validate.js"></script>
+<script type="text/javascript" src="../../../ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/additional-methods.js"></script>
+<script src="../../wp-content/themes/spacious/js/cookiesaver.js" type="text/javascript"></script>
+<script src="../../wp-content/themes/spacious/js/registration.js" type="text/javascript"></script>
+<script src="../../wp-content/themes/spacious/js/authentication.js" type="text/javascript"></script>
+<script src="../../wp-content/themes/spacious/js/restore.js" type="text/javascript"></script>
+<script src="../../wp-content/themes/spacious/js/registrationChar.js" type="text/javascript"></script>
+<script src="../../wp-content/themes/spacious/js/authenticationChar.js" type="text/javascript"></script>
+<script src="../../wp-content/themes/spacious/js/restoreChar.js" type="text/javascript"></script>
+</body>
+</html>
